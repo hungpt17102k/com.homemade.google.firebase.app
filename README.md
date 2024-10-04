@@ -1,2 +1,2 @@
-# com.homemade.google.external-dependency-manager
-Package for manager dependency of Google LLC
+# com.homemade.google.firebase.app
+Firebase App is the core library every Firebase package depends on.
